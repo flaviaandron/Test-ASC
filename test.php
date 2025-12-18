@@ -1,0 +1,2 @@
+<?php
+Salut, alt fisier
